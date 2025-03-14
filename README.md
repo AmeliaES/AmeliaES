@@ -30,7 +30,3 @@
 
 💬 Interested in collaborating or learning more about my work? Feel free to [reach out](https://www.linkedin.com/in/ameliaes/) :slightly_smiling_face:
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ameliaes/count.svg" alt="Visitor's Count" />
-</div>
