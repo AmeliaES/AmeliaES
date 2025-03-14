@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Amelia
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi,+I'm+Amelia+👋;" />
+</h1>
 
-**🧠 Currently a Research Fellow in Psychiatry** |  **💻 Aspiring to be a Software Developer/Tester**  
+### A research fellow in psychiatry, an advocator of good coding practices and an aspiring software developer/tester.
 
 ## Projects from my PhD/post-doc:
 - Created an [R package (with test coverage report)](https://github.com/AmeliaES/susiexR) which formats and plots output from a [specialised genetic software](https://github.com/getian107/SuSiEx).
@@ -27,3 +29,8 @@
 🌐 Please see [my website](https://ameliaes.github.io) for more information about my work and coding projects.
 
 💬 Interested in collaborating or learning more about my work? Feel free to [reach out](https://www.linkedin.com/in/ameliaes/) :slightly_smiling_face:
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ameliaes/count.svg" alt="Visitor's Count" />
+</div>
