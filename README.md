@@ -26,4 +26,4 @@
 
 🌐 Please see [my website](https://ameliaes.github.io) for more information about my work and coding projects.
 
-💬 Interested in collaborating or learning more about my work? Feel free to reach out :slightly_smiling_face:
+💬 Interested in collaborating or learning more about my work? Feel free to [reach out](https://www.linkedin.com/in/ameliaes/) :slightly_smiling_face:
