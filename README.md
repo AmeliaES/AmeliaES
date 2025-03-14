@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi,+I'm+Amelia+👋;" />
 </h1>
 
-### A research fellow in psychiatry, an advocator of good coding practices and an aspiring software developer/tester.
+### An advocator of good coding practices and aspiring to be a software developer/tester.
 
 ## Projects from my PhD/post-doc:
 - Created an [R package (with test coverage report)](https://github.com/AmeliaES/susiexR) which formats and plots output from a [specialised genetic software](https://github.com/getian107/SuSiEx).
