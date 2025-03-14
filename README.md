@@ -2,9 +2,29 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi,+I'm+Amelia+👋;" />
 </h1>
 
+<div align=center>
+<table>
+  <tr>
+    <td>
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=ameliaes&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amelia's GitHub Stats" />
+    </td>
+    <td>
+      <h3>An advocator of good coding practices</h3>
+      <h3>Aspiring to be a software developer/tester</h3>
+    </td>
+  </tr>
+</table>
+</div>
 
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-### An advocator of good coding practices and aspiring to be a software developer/tester.
+### 
 
 ## Projects from my PhD/post-doc:
 - Created an [R package (with test coverage report)](https://github.com/AmeliaES/susiexR) which formats and plots output from a [specialised genetic software](https://github.com/getian107/SuSiEx).
@@ -33,40 +53,13 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,js,nodejs,cypress,selenium,docker,eclipse,flask,git,github,githubactions,latex" />
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mysql,nginx,npm,php,py,r,raspberrypi,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,js,nodejs,flask,php,mysql,cypress,selenium,githubactions,docker,nginx,git" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,eclipse,py,r,latex,raspberrypi" />
 </p>
 
 ---
 
-## ⚡️ GitHub Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ameliaes&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amelia's GitHub Stats" />
-</div>
-
----
-
-
-
 🌐 Please see [my website](https://ameliaes.github.io) for more information about my work and coding projects.
 
 💬 Interested in collaborating or learning more about my work? Feel free to [reach out](https://www.linkedin.com/in/ameliaes/) :slightly_smiling_face:
-
-<br>
-
-<div align="center">
-  <a href="amelia1024k@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ameliaes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://ameliaes.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-
-<hr>
 
