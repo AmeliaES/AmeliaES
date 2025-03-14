@@ -26,6 +26,17 @@
 
 ---
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,js,nodejs,cypress,selenium,docker,eclipse,flask,git,github,githubactions,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mysql,nginx,npm,php,py,r,raspberrypi,vscode" />
+</p>
+
+<hr>
+
 🌐 Please see [my website](https://ameliaes.github.io) for more information about my work and coding projects.
 
 💬 Interested in collaborating or learning more about my work? Feel free to [reach out](https://www.linkedin.com/in/ameliaes/) :slightly_smiling_face:
