@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi,+I'm+Amelia+👋;" />
 </h1>
 
+
+
 ### An advocator of good coding practices and aspiring to be a software developer/tester.
 
 ## Projects from my PhD/post-doc:
@@ -35,7 +37,19 @@
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,mysql,nginx,npm,php,py,r,raspberrypi,vscode" />
 </p>
 
-<hr>
+---
+
+## ⚡️ GitHub Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ameliaes&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amelia's GitHub Stats" />
+</div>
+
+---
+
+
 
 🌐 Please see [my website](https://ameliaes.github.io) for more information about my work and coding projects.
 
