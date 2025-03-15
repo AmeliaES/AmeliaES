@@ -37,20 +37,122 @@
 
 ## 🛠️ Languages and Tools
 
-### **Programming & Scripting**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=r,py,php,mysql,js,html,css,sass,flask" />
-</p>
+<table align="center">
+  <tr>
+    <th colspan="9" style="text-align: center;">Programming & Scripting</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=r" />
+      <p>R</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" />
+      <p>Python</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" />
+      <p>PHP</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <p>MySQL</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" />
+      <p>JavaScript</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" />
+      <p>HTML</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" />
+      <p>CSS</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" />
+      <p>SASS</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" />
+      <p>Flask</p>
+    </td>
+  </tr>
+</table>
 
-### **DevOps & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,nodejs,cypress,selenium" />
-</p>
+<br>
 
-### **Other Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,eclipse,git,latex,raspberrypi" />
-</p>
+<table align="center">
+  <tr>
+    <th colspan="7" style="text-align: center;">DevOps & Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" />
+      <p>Docker</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" />
+      <p>Nginx</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions" />
+      <p>GitHub Actions</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <p>Node.js</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cypress" />
+      <p>Cypress</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=selenium" />
+      <p>Selenium</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th colspan="7" style="text-align: center;">Other Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" />
+      <p>Linux</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ubuntu" />
+      <p>Ubuntu</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <p>VSCode</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=eclipse" />
+      <p>Eclipse</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" />
+      <p>Git</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=latex" />
+      <p>LaTeX</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" />
+      <p>Raspberry Pi</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
