@@ -18,7 +18,7 @@ config:
   # Explicitly set the number of columns
   # or use `auto` to take the current
   # number of columns of your shell
-  cols: 30
+  cols: 60
   
   # Explicitly set the number of rows
   # or use `auto` to take the current
@@ -163,6 +163,172 @@ records:
     content: i
   - delay: 114
     content: a
+  - delay: 300
+    content: "\r\n\e]7;file://Amelias-MacBook-Pro.local/Users/aes/GitRepos/AmeliaES/images\a~ $ "
+  - delay: 7
+    content: "\r\n\e]7;file://Amelias-MacBook-Pro.local/Users/aes/GitRepos/AmeliaES/images\a~ $ "
+  - delay: 200
+    content: A
+  - delay: 129
+    content: 'n'
+  - delay: 248
+    content: ' '
+  - delay: 345
+    content: a
+  - delay: 251
+    content: d
+  - delay: 1184
+    content: v
+  - delay: 167
+    content: o
+  - delay: 225
+    content: c
+  - delay: 117
+    content: a
+  - delay: 292
+    content: t
+  - delay: 156
+    content: o
+  - delay: 101
+    content: r
+  - delay: 184
+    content: ' '
+  - delay: 185
+    content: o
+  - delay: 89
+    content: f
+  - delay: 198
+    content: ' '
+  - delay: 203
+    content: g
+  - delay: 156
+    content: o
+  - delay: 137
+    content: o
+  - delay: 114
+    content: d
+  - delay: 282
+    content: ' '
+  - delay: 192
+    content: c
+  - delay: 129
+    content: o
+  - delay: 142
+    content: d
+  - delay: 112
+    content: i
+  - delay: 101
+    content: 'n'
+  - delay: 78
+    content: g
+  - delay: 168
+    content: ' '
+  - delay: 163
+    content: p
+  - delay: 99
+    content: r
+  - delay: 228
+    content: a
+  - delay: 119
+    content: c
+  - delay: 245
+    content: t
+  - delay: 324
+    content: i
+  - delay: 135
+    content: c
+  - delay: 84
+    content: e
+  - delay: 233
+    content: s
+  - delay: 1075
+    content: "\r\n\e]7;file://Amelias-MacBook-Pro.local/Users/aes/GitRepos/AmeliaES/images\a~ $  "
+  - delay: 2560
+    content: A
+  - delay: 172
+    content: 'n'
+  - delay: 179
+    content: d
+  - delay: 168
+    content: ' '
+  - delay: 168
+    content: a
+  - delay: 133
+    content: 'n'
+  - delay: 207
+    content: ' '
+  - delay: 468
+    content: a
+  - delay: 246
+    content: s
+  - delay: 158
+    content: p
+  - delay: 556
+    content: i
+  - delay: 122
+    content: r
+  - delay: 142
+    content: i
+  - delay: 136
+    content: 'n'
+  - delay: 154
+    content: g
+  - delay: 286
+    content: ' '
+  - delay: 500
+    content: s
+  - delay: 142
+    content: o
+  - delay: 87
+    content: f
+  - delay: 236
+    content: t
+  - delay: 256
+    content: w
+  - delay: 191
+    content: a
+  - delay: 201
+    content: r
+  - delay: 75
+    content: e
+  - delay: 206
+    content: ' '
+  - delay: 132
+    content: d
+  - delay: 172
+    content: e
+  - delay: 86
+    content: v
+  - delay: 98
+    content: e
+  - delay: 95
+    content: l
+  - delay: 207
+    content: o
+  - delay: 82
+    content: p
+  - delay: 129
+    content: e
+  - delay: 60
+    content: r
+  - delay: 583
+    content: ' '
+  - delay: 543
+    content: /
+  - delay: 225
+    content: ' '
+  - delay: 186
+    content: t
+  - delay: 83
+    content: e
+  - delay: 249
+    content: s
+  - delay: 190
+    content: t
+  - delay: 169
+    content: e
+  - delay: 47
+    content: r
   - delay: 1507
     content: "\r\n\e]7;file://Amelias-MacBook-Pro.local/Users/aes/GitRepos/AmeliaES/images\a~ $ "
   - delay: 1507
