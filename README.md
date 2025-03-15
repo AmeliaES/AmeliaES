@@ -2,20 +2,6 @@
   <img src="images/hello.gif">
 </div>  
 
-<div align=center>
-<table>
-  <tr>
-    <td>
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=ameliaes&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amelia's GitHub Stats" />
-    </td>
-    <td>
-      <h3>An advocator of good coding practices</h3>
-      <h3>Aspiring to be a software developer/tester</h3>
-    </td>
-  </tr>
-</table>
-</div>
-
 ## Projects from my PhD/post-doc:
 - Created an [R package (with test coverage report)](https://github.com/AmeliaES/susiexR) which formats and plots output from a [specialised genetic software](https://github.com/getian107/SuSiEx).
 - Developed an [R Shiny app](https://github.com/TIDAL-modelling/TIDAL) for modelling longitudinal data, during a 6 month PhD secondment.
