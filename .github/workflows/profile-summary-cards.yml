@@ -15,6 +15,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
+      # Ensure the 'generate-github-cards' folder exists
+      - name: Create 'generate-github-cards' directory
+        run: |
+          mkdir -p generate-github-cards
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
