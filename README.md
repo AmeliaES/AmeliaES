@@ -16,16 +16,6 @@
 </table>
 </div>
 
-<div align=center>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-### 
-
 ## Projects from my PhD/post-doc:
 - Created an [R package (with test coverage report)](https://github.com/AmeliaES/susiexR) which formats and plots output from a [specialised genetic software](https://github.com/getian107/SuSiEx).
 - Developed an [R Shiny app](https://github.com/TIDAL-modelling/TIDAL) for modelling longitudinal data, during a 6 month PhD secondment.
@@ -63,3 +53,12 @@
 
 💬 Interested in collaborating or learning more about my work? Feel free to [reach out](https://www.linkedin.com/in/ameliaes/) :slightly_smiling_face:
 
+---
+
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ameliaes/ameliaes/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
