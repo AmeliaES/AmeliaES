@@ -2,6 +2,12 @@
   <img src="images/hello.gif">
 </div>  
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/AmeliaES/AmeliaES/main/profile-summary-card-output/nord_bright/0-profile-details.svg">
+</div> 
+
+---
+
 ## Projects from my PhD/post-doc:
 - Created an [R package (with test coverage report)](https://github.com/AmeliaES/susiexR) which formats and plots output from a [specialised genetic software](https://github.com/getian107/SuSiEx).
 - Developed an [R Shiny app](https://github.com/TIDAL-modelling/TIDAL) for modelling longitudinal data, during a 6 month PhD secondment.
@@ -21,8 +27,6 @@
 - [Scraped a car sales website using Selenium and Python](https://github.com/AmeliaES/cars)
 - [Data visualisation of my FitBit data](https://github.com/AmeliaES/fitbitr)
 - GitHub pages websites I've built: [personal website](https://github.com/AmeliaES/ameliaes.github.io), [colleague's website](https://github.com/Life-Epi-Psych/Life-Epi-Psych.github.io) and [software documentation website](https://github.com/TIDAL-modelling/TIDAL-modelling.github.io).
-
----
 
 ## 🛠️ Languages and Tools
 
