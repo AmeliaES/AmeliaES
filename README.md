@@ -6,7 +6,7 @@
 
 ## 🚀 Projects from My PhD/Post-Doc
 ### **Data Science & Research**
-- Developed an [R package with test coverage](https://github.com/AmeliaES/susiexR) for formatting and plotting output from [specialized genetic software](https://github.com/getian107/SuSiEx).
+- Developed an [R package with test coverage](https://github.com/AmeliaES/susiexR) for formatting and plotting output from [specialised genetic software](https://github.com/getian107/SuSiEx).
 - Built an [R Shiny app](https://github.com/TIDAL-modelling/TIDAL) for modeling longitudinal data during a PhD secondment.
 - [Cleaned electronic health record data using SQL](https://github.com/AmeliaES/SAIL).
 - Published first-author papers ([2025_EurPsych](https://github.com/AmeliaES/2025_EurPsych), [ALSPAC_inflam_2022](https://github.com/AmeliaES/ALSPAC_inflam_2022)) applying epidemiological and statistical methods in mental health research.
@@ -21,9 +21,9 @@
 ---
 
 ## 🌱 Exploring New Technologies
-- **Web Development**: Built a [PHP/MySQL CRUD application](https://github.com/AmeliaES/eCommerce-admin-panel).
-- **Raspberry Pi**: Created a [Raspberry Pi bus tracker](https://github.com/AmeliaES/raspberry-pi-bus-tracker) bus tracker that fetches real-time bus departures from the Edinburgh Lothian Bus API and displays them on an LCD screen, using a Python script and a cron job.
-- **Web Design**: Developed a [portfolio website](https://github.com/AmeliaES/CodeSpace-Portfolio) using JS, Bootstrap, HTML, and CSS.
+- **Web Development**: Built a [PHP/MySQL CRUD (Create, Read, Update, Delete) application](https://github.com/AmeliaES/eCommerce-admin-panel).
+- **Raspberry Pi**: Created a [Raspberry Pi bus tracker](https://github.com/AmeliaES/raspberry-pi-bus-tracker) that fetches real-time bus departures from the Edinburgh Lothian Bus API and displays them on an LCD screen, using a Python script and a cron job.
+- **Web Design**: Developed a [front-end e-commerce website prototype](https://github.com/AmeliaES/CodeSpace-Portfolio) using JS, Bootstrap, HTML, and CSS.
 - **Data Science**:
   - Built a [Spotify history dashboard](https://github.com/AmeliaES/spotify_dashboard) with Python & Dash.
   - [Scraped a car sales website](https://github.com/AmeliaES/cars) using Selenium & Python.
