@@ -1,0 +1,1 @@
+Animated terminal made using: https://github.com/faressoft/terminalizer
