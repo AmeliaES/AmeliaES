@@ -24,7 +24,7 @@
 - **Web Development**: Built a [PHP/MySQL CRUD (Create, Read, Update, Delete) application](https://github.com/AmeliaES/eCommerce-admin-panel).
 - [**JavaScript Calculator**](https://github.com/AmeliaES/javaScriptCalculator/): with testing using **Cypress**, and CI/CD using **GitHub Actions**.
 - **Raspberry Pi**: Created a [Raspberry Pi bus tracker](https://github.com/AmeliaES/raspberry-pi-bus-tracker) that fetches real-time bus departures from the Edinburgh Lothian Bus API and displays them on an LCD screen, using a Python script and a cron job.
-- **Web Design**: Developed a [front-end e-commerce website prototype](https://github.com/AmeliaES/CodeSpace-Portfolio) using JS, Bootstrap, HTML, and CSS.
+- **Web Design**: Developed an [e-commerce website prototype](https://github.com/AmeliaES/CodeSpace-Portfolio) using PHP, MySQL, JavaScript, Bootstrap, HTML, and CSS. With end to end testing in Cypress.
 - **Data Science**:
   - Built a [Spotify history dashboard](https://github.com/AmeliaES/spotify_dashboard) with Python & Dash.
   - [Scraped a car sales website](https://github.com/AmeliaES/cars) using Selenium & Python.
